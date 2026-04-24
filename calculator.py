@@ -1,7 +1,9 @@
 
+# Defining Functions 
 
 def sum (a,b):
 	return (a+b)
+
 
 def subtract (a,b):
 	return (a-b)
@@ -21,9 +23,10 @@ def power (a, b):
 def modulus (a, b):
 	return (a%b)
 
-
+# Defining Histroy Variable
 history = []
 
+# Defining Main Code
 while True:
 	c = input("Enter operation (+, -, *, /, %, ^, //) or 'exit': ")
 	
