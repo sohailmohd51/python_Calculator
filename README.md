@@ -17,8 +17,11 @@ Python CLI calculator featuring modular architecture, robust error handling, and
 ## Example
 
 Enter operation (+, -, *, /, %, ^, //) or 'exit': +
+
 Enter first number: 5
+
 Enter second number: 3
+
 Result: 8
 
 ## Author
